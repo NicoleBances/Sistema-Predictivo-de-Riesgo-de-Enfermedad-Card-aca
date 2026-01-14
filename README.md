@@ -32,8 +32,6 @@ Marsi Valeria Figueroa Larragán
 - **Variables:** 18, incluyendo la variable objetivo `HeartDisease` (Yes/No).  
 - **Tipo de variables:** combinación de categóricas (ej. Diabetes, Smoking, Sex) y numéricas (ej. BMI, PhysicalHealth, SleepTime).  
 
-> En GitHub se incluye un **dataset de ejemplo reducido** para reproducir el proyecto sin comprometer datos reales.  
-
 ---
 
 ## Análisis Exploratorio de Datos (EDA)
